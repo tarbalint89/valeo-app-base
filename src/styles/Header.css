@@ -1,0 +1,38 @@
+.header_menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex: 1;
+}
+
+#logo {
+  width: 125px;
+}
+
+.unactive_language {
+  filter: opacity(30%);
+}
+
+#GB {
+  padding: 10px;
+  height: 50px;
+}
+
+#HU {
+  padding: 10px;
+  height: 50px;
+}
+
+#UK {
+  padding: 10px;
+  height: 50px;
+}
+
+.toolbar {
+  background-color: #e9e9e9;
+}
+
+.clock {
+  padding-left: 10px;
+}
